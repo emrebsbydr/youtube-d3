@@ -78,10 +78,6 @@ function TimeSeries(props) {
         .attr("stroke-width", 1.5)
         .attr("d", line)
    }
-
-
-
-
   return (
     <div>
       <h1>TimeSeries</h1>
